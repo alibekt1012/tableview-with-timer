@@ -13,6 +13,7 @@
 		1D5008372A6F924F00233E03 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D5008352A6F924F00233E03 /* Main.storyboard */; };
 		1D5008392A6F925000233E03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D5008382A6F925000233E03 /* Assets.xcassets */; };
 		1D50083C2A6F925000233E03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D50083A2A6F925000233E03 /* LaunchScreen.storyboard */; };
+		1D5008442A6F933800233E03 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D5008432A6F933800233E03 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D5008382A6F925000233E03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D50083B2A6F925000233E03 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D50083D2A6F925000233E03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D5008432A6F933800233E03 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				1D5008382A6F925000233E03 /* Assets.xcassets */,
 				1D50083A2A6F925000233E03 /* LaunchScreen.storyboard */,
 				1D50083D2A6F925000233E03 /* Info.plist */,
+				1D5008432A6F933800233E03 /* TableViewController.swift */,
 			);
 			path = updates;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				1D5008342A6F924F00233E03 /* ViewController.swift in Sources */,
 				1D5008302A6F924F00233E03 /* AppDelegate.swift in Sources */,
 				1D5008322A6F924F00233E03 /* SceneDelegate.swift in Sources */,
+				1D5008442A6F933800233E03 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
